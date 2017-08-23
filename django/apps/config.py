@@ -6,7 +6,7 @@ from django.utils.module_loading import module_has_submodule
 
 MODELS_MODULE_NAME = 'models'
 
-
+# comment to keep
 class AppConfig:
     """Class representing a Django application and its configuration."""
 
